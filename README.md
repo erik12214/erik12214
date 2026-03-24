@@ -1,51 +1,56 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+# ¡Hola! Soy Erik Tec 👋
 
-###
+## 📱 Android Engineer | 🌐 Full-Stack Developer | 🛠️ Infrastructure & DevOps
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="60" alt="jetpackcompose logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="60" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="60" alt="nginx logo"  />
-</div>
+Desarrollador integral en móvil nativo, backend e infraestructura. Enfocado en construir sistemas eficientes, escalables y altamente monitoreados.
 
-###
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/erik-tec-994507114/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+### 🚀 Mi Stack Tecnológico
 
-###
+#### **Lenguajes de Programación**
+- ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) -> Especialista en ecosistema JVM y Android.
+- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white) -> Desarrollo de aplicaciones robustas y empresariales.
+- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) -> APIs ágiles con **Laravel** y **Slim Framework**.
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=erik12214&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=erik12214&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+#### **Mobile & Backend Frameworks**
+- **Android:** Jetpack Compose, Coroutines, MVVM/MVI, Clean Architecture.
+- **Networking & Server:** (Client/Server), Ktor.
+- **Web Servers:** Configuración avanzada de **Nginx** en entornos **Linux**.
 
-###
+#### **Data Management (SQL Expert)**
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+- ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erik12214/erik12214/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erik12214/erik12214/output/pacman-contribution-graph.svg">
-</picture>
+#### **Infrastructure & Networking**
+- 📡 **Custom Firmware:** Creación de firmwares para **OpenWrt** y gestión con **OpenWISP**.
+- 📈 **Observability:** Implementación de **Zabbix** y dashboards en **Grafana** para monitoreo de sistemas.
 
-###
-<!---
-erik12214/erik12214 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 📊 Estadísticas de Impacto
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=erik12214&show_icons=true&theme=tokyonight" alt="Stats" height="150" />
+  <div></div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erik12214&layout=compact&theme=tokyonight" alt="Langs" height="150" />
+</p>
+
+---
+
+### 💡 Sobre mí
+
+Mi perfil une tres mundos que raramente se encuentran en un solo desarrollador:
+1. **Desarrollo de software móvil** (Kotlin/Java/Android).
+2. **Desarrollo de backend y bases de datos** (Ktor/.NET/Laravel/PostgreSQL).
+3. **Desarrollo de sistemas de monitoreo de red** (OpenWrt/Linux/Zabbix).
+
+Diseño soluciones donde el código no solo es limpio, sino que está perfectamente optimizado para la infraestructura en la que corre.
+
+---
+
+### 📫 Conectemos:
+
+- 💼 [LinkedIn](www.linkedin.com/in/erik-tec-994507114)
+
+---
